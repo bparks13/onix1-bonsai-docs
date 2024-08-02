@@ -25,20 +25,8 @@ jobs:
         run: dotnet tool install DocLinkChecker
 
       # Check for missing / broken links in the *.md files prior to building the website
-      - name: Check Documentation Links in index.md
-        run: dotnet DocLinkChecker -vt -include index.md -d .
-
-      # Check for missing / broken links in the *.md files prior to building the website
-      - name: Check Documentation Links in apidoc
-        run: dotnet DocLinkChecker -v -f .github/workflows/DocLinkChecker.config -d apidoc
-
-      # Check for missing / broken links in the *.md files prior to building the website
       - name: Check Documentation Links
-        run: dotnet DocLinkChecker -v -f .github/workflows/DocLinkChecker.config -d articles
-
-      # Check for missing / broken links in the *.md files prior to building the website
-      - name: Check Documentation Links in Tutorials
-        run: dotnet DocLinkChecker -v -f .github/workflows/DocLinkChecker.config -d tutorials
+        run: dotnet DocLinkChecker -v -f .github/workflows/DocLinkChecker.config
 
       - name: Setup DocFX
         run: dotnet tool restore
