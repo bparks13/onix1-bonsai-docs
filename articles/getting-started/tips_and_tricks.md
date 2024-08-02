@@ -20,7 +20,7 @@ The order of nodes is also important for which actions can be taken. In the tabl
 | Change order of nodes in a row | Hold **Ctrl**, click and hold the first node, drag to the right to the second node, and release | This action does not require that the node be selected prior to performing the action. This can change the order of any two nodes that are a part of the same row; it is not constrained to adjacent nodes. Note that if the new placement of the nodes is not valid (such as giving a `Source` node an input), it will knock the node of the current row and remove any connections |
 
 > [!Note]
-> In the context of `OpenEphys.Onix1`, almost all workflows should have the top row containing a [`CreateContext`](xref:OpenEphys1.Onix.CreateContext) node connected to an arbitrary number of `Configure*` nodes, finished with a [`StartAcquisition`](xref:OpenEphys.Onix1.StartAcquisition) node. Subsequent rows can contain the corresponding `*Data` nodes configured above, and any processing / visualizing nodes needed.
+> In the context of `OpenEphys.Onix1`, almost all workflows should have the top row containing a [`CreateContext`](xref:OpenEphys.Onix1.CreateContext) node connected to an arbitrary number of `Configure*` nodes, finished with a [`StartAcquisition`](xref:OpenEphys.Onix1.StartAcquisition) node. Subsequent rows can contain the corresponding `*Data` nodes configured above, and any processing / visualizing nodes needed.
 
 <br>
 

@@ -26,7 +26,7 @@ Other major advantages include:
 
 | <xref:GettingStarted> | <xref:OpenEphys.Onix> | <xref:TutorialsLandingPage> |
 |:--------------:|:-------------------:|:---------:|
-| [![User Guide](images/macbook.svg){width=200}](xref:GettingStarted) | [![Operator Guide](images/books.svg){width=200}](xref:OpenEphys.Onix) | [![Tutorials](images/running.svg){width=200}](xref:TutorialsLandingPage) |
-| [New to Bonsai or <br>OpenEphys.Onix? Start here!](xref:GettingStarted) | [Operator references here](xref:OpenEphys.Onix) | [Check out our tutorials <br>for useful workflows](xref:TutorialsLandingPage) |
+| [![User Guide](images/macbook.svg){width=200}](xref:GettingStarted) | [![Operator Guide](images/books.svg){width=200}](xref:OpenEphys.Onix1) | [![Tutorials](images/running.svg){width=200}](xref:TutorialsLandingPage) |
+| [New to Bonsai or <br>OpenEphys.Onix? Start here!](xref:GettingStarted) | [Operator references here](xref:OpenEphys.Onix1) | [Check out our tutorials <br>for useful workflows](xref:TutorialsLandingPage) |
 
 </div>
