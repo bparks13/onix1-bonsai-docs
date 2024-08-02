@@ -26,7 +26,7 @@ jobs:
 
       # Check for missing / broken links in the *.md files prior to building the website
       - name: Check Documentation Links in index.md
-        run: dotnet DocLinkChecker -v -f .github/workflows/DocLinkChecker.config -d index.md
+        run: dotnet DocLinkChecker -vt -d index.md
 
       # Check for missing / broken links in the *.md files prior to building the website
       - name: Check Documentation Links in apidoc
