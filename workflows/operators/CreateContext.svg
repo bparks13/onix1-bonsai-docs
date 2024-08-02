@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"[
+<!ENTITY E6 'matrix(1.00 0.00 0.00 1.00 0.00 0.00 ) '><!ENTITY E9 'stroke:rgb(0,0,0);fill:rgb(0,0,0);'>
+]>
+<svg width="47.70914" height="66.65038" id="SvgGdi_output" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>text { fill: #000; } @media (prefers-color-scheme: dark) { text { fill: #eee; } }</style>
+  <rect id="background" height="100.00%" style="fill:none;" width="100.00%" y="0.00" x="0.00" />
+  <g style="shape-rendering:auto;" id="root_group">
+    <ellipse id="34" cy="15.00" cx="15.00" rx="15.00" ry="15.00" transform="matrix(1.00 0.00 0.00 1.00 4.00 4.00 ) " style="stroke:none;opacity:1;fill:rgb(238,192,75);" />
+    <ellipse id="36" cy="19.00" cx="19.00" rx="15.00" ry="15.00" style="fill:url(#37_HatchBrush);" />
+    <ellipse id="41" cy="19.00" cx="4.00" rx="3.00" ry="3.00" style="stroke:rgb(169,169,169);fill:none;stroke-linecap:butt;stroke-miterlimit:9;opacity:1;stroke-width:2;stroke-linejoin:miter;" />
+    <ellipse id="42" cy="19.00" cx="4.00" rx="3.00" ry="3.00" style="stroke:none;opacity:1;fill:rgb(255,255,255);" />
+    <text id="43" transform="matrix(1.00 0.00 0.00 1.00 0.00 0.00 ) " x="4.00px" y="39.00px" style="stroke:none;clip-path:url(#45_text_clipper);font-family:Microsoft Sans Serif;font-size:8.25pt;opacity:1;">
+      <tspan dy="8.25pt" id="47">Create</tspan>
+    </text>
+    <text id="49" transform="matrix(1.00 0.00 0.00 1.00 0.00 0.00 ) " x="4.00px" y="51.45px" style="stroke:none;clip-path:url(#51_text_clipper);font-family:Microsoft Sans Serif;font-size:8.25pt;opacity:1;">
+      <tspan dy="8.25pt" id="53">Context</tspan>
+    </text>
+  </g>
+  <defs id="clips_hatches_and_gradients">
+    <pattern id="37_HatchBrush" patternContentUnits="userSpaceOnUse" height="8.00" patternUnits="userSpaceOnUse" width="8.00" y="0.00" x="0.00" style="stroke-linecap:butt;shape-rendering:crispEdges;">
+      <rect id="38" height="8.00" style="fill:rgb(255,255,255);" width="8.00" y="0.00" x="0.00" />
+      <line y1="0.00" style="stroke:rgb(0,0,0);fill:rgb(0,0,0);" id="39" x2="8.00" y2="8.00" x1="0.00" />
+      <line y1="0.00" style="stroke:rgb(0,0,0);fill:rgb(0,0,0);" id="40" x2="0.00" y2="8.00" x1="8.00" />
+    </pattern>
+    <clipPath id="45_text_clipper">
+      <rect x="4.00" y="39.00" width="42.71" height="27.65" id="46" />
+    </clipPath>
+    <clipPath id="51_text_clipper">
+      <rect x="4.00" y="51.45" width="42.71" height="27.65" id="52" />
+    </clipPath>
+  </defs>
+</svg>

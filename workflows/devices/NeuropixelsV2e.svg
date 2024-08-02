@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"[
+<!ENTITY E7 'matrix(1.00 0.00 0.00 1.00 0.00 0.00 ) '><!ENTITY E12 'stroke:none;fill-rule:evenodd;opacity:1;fill:rgb(255,255,255);'><!ENTITY E4 'stroke:rgb(169,169,169);fill:none;stroke-linecap:butt;stroke-miterlimit:9;opacity:1;stroke-width:2;stroke-linejoin:miter;'><!ENTITY E5 'stroke:none;opacity:1;fill:rgb(255,255,255);'><!ENTITY E9 'matrix(1.00 0.00 0.00 1.00 164.00 84.00 ) '><!ENTITY E3 'stroke:none;opacity:1;fill:rgb(238,192,75);'><!ENTITY E1 'stroke:rgb(169,169,169);fill:none;stroke-linecap:butt;stroke-miterlimit:9;opacity:1;stroke-width:1;stroke-linejoin:miter;'><!ENTITY E28 'stroke:rgb(0,0,0);fill:rgb(0,0,0);'><!ENTITY E27 'stroke-linecap:butt;shape-rendering:crispEdges;'>
+]>
+<svg width="236.8581" height="146.6504" id="SvgGdi_output" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>text { fill: #000; } @media (prefers-color-scheme: dark) { text { fill: #eee; } }</style>
+  <rect id="background" height="100.00%" style="fill:none;" width="100.00%" y="0.00" x="0.00" />
+  <g style="shape-rendering:auto;" id="root_group">
+    <line y1="19.00" style="stroke:rgb(169,169,169);fill:none;stroke-linecap:butt;stroke-miterlimit:9;opacity:1;stroke-width:1;stroke-linejoin:miter;" id="2" x2="160.00" y2="19.00" x1="118.00" />
+    <line y1="99.00" style="stroke:rgb(169,169,169);fill:none;stroke-linecap:butt;stroke-miterlimit:9;opacity:1;stroke-width:1;stroke-linejoin:miter;" id="3" x2="160.00" y2="99.00" x1="118.00" />
+    <line y1="19.00" style="stroke:rgb(169,169,169);fill:none;stroke-linecap:butt;stroke-miterlimit:9;opacity:1;stroke-width:1;stroke-linejoin:miter;" id="4" x2="80.00" y2="19.00" x1="38.00" />
+    <ellipse id="37" cy="15.00" cx="15.00" rx="15.00" ry="15.00" style="stroke:none;opacity:1;fill:rgb(238,192,75);" transform="matrix(1.00 0.00 0.00 1.00 164.00 4.00 ) " />
+    <ellipse id="39" cy="19.00" cx="179.00" rx="15.00" ry="15.00" style="fill:url(#40_HatchBrush);" />
+    <ellipse id="44" cy="19.00" cx="164.00" rx="3.00" ry="3.00" style="stroke:rgb(169,169,169);fill:none;stroke-linecap:butt;stroke-miterlimit:9;opacity:1;stroke-width:2;stroke-linejoin:miter;" />
+    <ellipse id="45" cy="19.00" cx="164.00" rx="3.00" ry="3.00" style="stroke:none;opacity:1;fill:rgb(255,255,255);" />
+    <text id="46" transform="matrix(1.00 0.00 0.00 1.00 0.00 0.00 ) " x="164.00px" y="39.00px" style="stroke:none;clip-path:url(#48_text_clipper);font-family:Microsoft Sans Serif;font-size:8.25pt;opacity:1;">
+      <tspan dy="8.25pt" id="50">Start</tspan>
+    </text>
+    <text id="52" transform="matrix(1.00 0.00 0.00 1.00 0.00 0.00 ) " x="164.00px" y="51.45px" style="stroke:none;clip-path:url(#54_text_clipper);font-family:Microsoft Sans Serif;font-size:8.25pt;opacity:1;">
+      <tspan dy="8.25pt" id="56">Acquisition</tspan>
+    </text>
+    <ellipse id="60" cy="15.00" cx="15.00" transform="matrix(1.00 0.00 0.00 1.00 164.00 84.00 ) " rx="15.00" ry="15.00" style="stroke:none;opacity:1;fill:rgb(68,154,223);" />
+    <path style="stroke:none;fill-rule:evenodd;opacity:1;fill:rgb(255,255,255);" transform="matrix(1.00 0.00 0.00 1.00 164.00 84.00 ) " id="65" d="M 19.156 13.888 19.156 10.3647 19.156 6.841399 25.2585 10.3647 22.2072 12.1264 z " />
+    <path style="stroke:none;fill-rule:evenodd;opacity:1;fill:rgb(255,255,255);" transform="matrix(1.00 0.00 0.00 1.00 164.00 84.00 ) " id="66" d="M 19.156 22.97 19.156 19.4467 19.156 15.9234 25.2585 19.4467 22.2072 21.2084 z " />
+    <path transform="matrix(1.00 0.00 0.00 1.00 164.00 84.00 ) " id="67" style="stroke:rgb(255,255,255);fill:none;stroke-linecap:butt;stroke-miterlimit:9;opacity:1;stroke-width:2;stroke-linejoin:miter;" d="M 5.5001 19.484 10.6493 19.484 16.2743 10.2485 19.3728 10.2485 M 14.6769 17.1481 16.3089 19.4828 19.2202 19.4828 M 5.500199 10.2437 10.7586 10.2437 12.1652 12.8707 " />
+    <text id="68" transform="matrix(1.00 0.00 0.00 1.00 0.00 0.00 ) " x="164.00px" y="119.00px" style="stroke:none;clip-path:url(#70_text_clipper);font-family:Microsoft Sans Serif;font-size:8.25pt;opacity:1;">
+      <tspan dy="8.25pt" id="72">AmplifierData</tspan>
+    </text>
+    <ellipse id="74" cy="15.00" cx="15.00" rx="15.00" ry="15.00" style="stroke:none;opacity:1;fill:rgb(238,192,75);" transform="matrix(1.00 0.00 0.00 1.00 84.00 4.00 ) " />
+    <ellipse id="75" cy="19.00" cx="99.00" rx="15.00" ry="15.00" style="fill:url(#76_HatchBrush);" />
+    <ellipse id="80" cy="19.00" cx="84.00" rx="3.00" ry="3.00" style="stroke:rgb(169,169,169);fill:none;stroke-linecap:butt;stroke-miterlimit:9;opacity:1;stroke-width:2;stroke-linejoin:miter;" />
+    <ellipse id="81" cy="19.00" cx="84.00" rx="3.00" ry="3.00" style="stroke:none;opacity:1;fill:rgb(255,255,255);" />
+    <text id="82" transform="matrix(1.00 0.00 0.00 1.00 0.00 0.00 ) " x="84.00px" y="39.00px" style="stroke:none;clip-path:url(#84_text_clipper);font-family:Microsoft Sans Serif;font-size:8.25pt;opacity:1;">
+      <tspan dy="8.25pt" id="86">Configure</tspan>
+    </text>
+    <text id="88" transform="matrix(1.00 0.00 0.00 1.00 0.00 0.00 ) " x="84.00px" y="51.45px" style="stroke:none;clip-path:url(#90_text_clipper);font-family:Microsoft Sans Serif;font-size:8.25pt;opacity:1;">
+      <tspan dy="8.25pt" id="92">Neuropixels</tspan>
+    </text>
+    <text id="94" transform="matrix(1.00 0.00 0.00 1.00 0.00 0.00 ) " x="84.00px" y="63.90px" style="stroke:none;clip-path:url(#96_text_clipper);font-family:Microsoft Sans Serif;font-size:8.25pt;opacity:1;">
+      <tspan dy="8.25pt" id="98">V2eHeadstage</tspan>
+    </text>
+    <ellipse id="100" cy="15.00" cx="15.00" rx="15.00" ry="15.00" style="stroke:none;opacity:1;fill:rgb(238,192,75);" transform="matrix(1.00 0.00 0.00 1.00 84.00 84.00 ) " />
+    <ellipse id="101" cy="99.00" cx="99.00" rx="15.00" ry="15.00" style="fill:url(#102_HatchBrush);" />
+    <ellipse id="106" cy="99.00" cx="84.00" rx="3.00" ry="3.00" style="stroke:rgb(169,169,169);fill:none;stroke-linecap:butt;stroke-miterlimit:9;opacity:1;stroke-width:2;stroke-linejoin:miter;" />
+    <ellipse id="107" cy="99.00" cx="84.00" rx="3.00" ry="3.00" style="stroke:none;opacity:1;fill:rgb(255,255,255);" />
+    <text id="108" transform="matrix(1.00 0.00 0.00 1.00 0.00 0.00 ) " x="84.00px" y="119.00px" style="stroke:none;clip-path:url(#110_text_clipper);font-family:Microsoft Sans Serif;font-size:8.25pt;opacity:1;">
+      <tspan dy="8.25pt" id="112">Neuropixels</tspan>
+    </text>
+    <text id="114" transform="matrix(1.00 0.00 0.00 1.00 0.00 0.00 ) " x="84.00px" y="131.45px" style="stroke:none;clip-path:url(#116_text_clipper);font-family:Microsoft Sans Serif;font-size:8.25pt;opacity:1;">
+      <tspan dy="8.25pt" id="118">V2eData</tspan>
+    </text>
+    <ellipse id="120" cy="15.00" cx="15.00" rx="15.00" ry="15.00" style="stroke:none;opacity:1;fill:rgb(238,192,75);" transform="matrix(1.00 0.00 0.00 1.00 4.00 4.00 ) " />
+    <ellipse id="121" cy="19.00" cx="19.00" rx="15.00" ry="15.00" style="fill:url(#122_HatchBrush);" />
+    <ellipse id="126" cy="19.00" cx="4.00" rx="3.00" ry="3.00" style="stroke:rgb(169,169,169);fill:none;stroke-linecap:butt;stroke-miterlimit:9;opacity:1;stroke-width:2;stroke-linejoin:miter;" />
+    <ellipse id="127" cy="19.00" cx="4.00" rx="3.00" ry="3.00" style="stroke:none;opacity:1;fill:rgb(255,255,255);" />
+    <text id="128" transform="matrix(1.00 0.00 0.00 1.00 0.00 0.00 ) " x="4.00px" y="39.00px" style="stroke:none;clip-path:url(#130_text_clipper);font-family:Microsoft Sans Serif;font-size:8.25pt;opacity:1;">
+      <tspan dy="8.25pt" id="132">Create</tspan>
+    </text>
+    <text id="134" transform="matrix(1.00 0.00 0.00 1.00 0.00 0.00 ) " x="4.00px" y="51.45px" style="stroke:none;clip-path:url(#136_text_clipper);font-family:Microsoft Sans Serif;font-size:8.25pt;opacity:1;">
+      <tspan dy="8.25pt" id="138">Context</tspan>
+    </text>
+  </g>
+  <defs id="clips_hatches_and_gradients">
+    <pattern id="40_HatchBrush" patternContentUnits="userSpaceOnUse" height="8.00" style="stroke-linecap:butt;shape-rendering:crispEdges;" patternUnits="userSpaceOnUse" width="8.00" y="0.00" x="0.00">
+      <rect id="41" height="8.00" style="fill:rgb(255,255,255);" width="8.00" y="0.00" x="0.00" />
+      <line y1="0.00" style="stroke:rgb(0,0,0);fill:rgb(0,0,0);" id="42" x2="8.00" y2="8.00" x1="0.00" />
+      <line y1="0.00" style="stroke:rgb(0,0,0);fill:rgb(0,0,0);" id="43" x2="0.00" y2="8.00" x1="8.00" />
+    </pattern>
+    <clipPath id="48_text_clipper">
+      <rect x="164.00" y="39.00" width="58.66" height="27.65" id="49" />
+    </clipPath>
+    <clipPath id="54_text_clipper">
+      <rect x="164.00" y="51.45" width="58.66" height="27.65" id="55" />
+    </clipPath>
+    <clipPath id="70_text_clipper">
+      <rect x="164.00" y="119.00" width="71.86" height="13.83" id="71" />
+    </clipPath>
+    <pattern id="76_HatchBrush" patternContentUnits="userSpaceOnUse" height="8.00" style="stroke-linecap:butt;shape-rendering:crispEdges;" patternUnits="userSpaceOnUse" width="8.00" y="0.00" x="0.00">
+      <rect id="77" height="8.00" style="fill:rgb(255,255,255);" width="8.00" y="0.00" x="0.00" />
+      <line y1="0.00" style="stroke:rgb(0,0,0);fill:rgb(0,0,0);" id="78" x2="8.00" y2="8.00" x1="0.00" />
+      <line y1="0.00" style="stroke:rgb(0,0,0);fill:rgb(0,0,0);" id="79" x2="0.00" y2="8.00" x1="8.00" />
+    </pattern>
+    <clipPath id="84_text_clipper">
+      <rect x="84.00" y="39.00" width="78.62" height="41.48" id="85" />
+    </clipPath>
+    <clipPath id="90_text_clipper">
+      <rect x="84.00" y="51.45" width="78.62" height="41.48" id="91" />
+    </clipPath>
+    <clipPath id="96_text_clipper">
+      <rect x="84.00" y="63.90" width="78.62" height="41.48" id="97" />
+    </clipPath>
+    <pattern id="102_HatchBrush" patternContentUnits="userSpaceOnUse" height="8.00" style="stroke-linecap:butt;shape-rendering:crispEdges;" patternUnits="userSpaceOnUse" width="8.00" y="0.00" x="0.00">
+      <rect id="103" height="8.00" style="fill:rgb(255,255,255);" width="8.00" y="0.00" x="0.00" />
+      <line y1="0.00" style="stroke:rgb(0,0,0);fill:rgb(0,0,0);" id="104" x2="8.00" y2="8.00" x1="0.00" />
+      <line y1="0.00" style="stroke:rgb(0,0,0);fill:rgb(0,0,0);" id="105" x2="0.00" y2="8.00" x1="8.00" />
+    </pattern>
+    <clipPath id="110_text_clipper">
+      <rect x="84.00" y="119.00" width="63.62" height="27.65" id="111" />
+    </clipPath>
+    <clipPath id="116_text_clipper">
+      <rect x="84.00" y="131.45" width="63.62" height="27.65" id="117" />
+    </clipPath>
+    <pattern id="122_HatchBrush" patternContentUnits="userSpaceOnUse" height="8.00" style="stroke-linecap:butt;shape-rendering:crispEdges;" patternUnits="userSpaceOnUse" width="8.00" y="0.00" x="0.00">
+      <rect id="123" height="8.00" style="fill:rgb(255,255,255);" width="8.00" y="0.00" x="0.00" />
+      <line y1="0.00" style="stroke:rgb(0,0,0);fill:rgb(0,0,0);" id="124" x2="8.00" y2="8.00" x1="0.00" />
+      <line y1="0.00" style="stroke:rgb(0,0,0);fill:rgb(0,0,0);" id="125" x2="0.00" y2="8.00" x1="8.00" />
+    </pattern>
+    <clipPath id="130_text_clipper">
+      <rect x="4.00" y="39.00" width="42.71" height="27.65" id="131" />
+    </clipPath>
+    <clipPath id="136_text_clipper">
+      <rect x="4.00" y="51.45" width="42.71" height="27.65" id="137" />
+    </clipPath>
+  </defs>
+</svg>
